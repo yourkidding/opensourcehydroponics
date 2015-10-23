@@ -1,5 +1,11 @@
 ---
 title: Document Center
+published: true
+---
+
+
+---
+title: Document Center
 ---
 
 ## A New Post
